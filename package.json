@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test-electron": "node test.js",
+    "test-node": "node test.js",
     "test-electron": "electron main.js"
   },
   "author": "",
