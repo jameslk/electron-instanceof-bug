@@ -1,0 +1,16 @@
+{
+  "name": "electron-instanceof-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "electron-prebuilt": "^0.25.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test-electron": "node test.js",
+    "test-electron": "electron main.js"
+  },
+  "author": "",
+  "license": ""
+}
